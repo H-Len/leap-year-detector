@@ -15,11 +15,11 @@ Support or contribution instructions
 
 Outline of README sections: -->
 
-# _{Application Name}_
+# _Leap year detector_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _enter a year to see if it is, was, or will be a leap year, 04/02/2019_
 
-#### By _**{List of contributors}**_
+#### By _**Hannah Melendy; Epicodus**_
 
 ## Description
 
